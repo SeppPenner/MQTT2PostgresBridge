@@ -24,7 +24,7 @@ client_source.username_pw_set("mqtt", "IoT")
 DatabaseHostName = 'YourHost'
 DatabaseUserName = 'YourUser'
 DatabasePassword = 'YourPassword'
-DatabasePort = 3306
+DatabasePort = 5432
 ```
 
 * Run the script `SetupDatabase.sql` on your database to setup the database correctly
