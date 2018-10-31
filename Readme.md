@@ -64,12 +64,6 @@ sudo apt-get install python3-pip
 sudo pip3 install -r requirements.txt
 ```
 
-or
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Running the programms:
 
 ```bash
