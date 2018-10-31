@@ -1,6 +1,6 @@
 # MQTT2PostgresBridge
 
-MQTT2PostgresBridge is a project to connect a locally running broker to a Postgres database and store the messages in a database table. The project was written and tested in Python 3.7.
+MQTT2PostgresBridge is a project to connect a locally running broker to a Postgres database and store the messages in a database table. The project was written and tested in Python 3.7.1.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/bhqkj3oacr7jix8x?svg=true)](https://ci.appveyor.com/project/SeppPenner/mqtt2postgresbridge)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/MQTT2PostgresBridge.svg)](https://github.com/SeppPenner/MQTT2PostgresBridge/issues)
@@ -62,6 +62,12 @@ or
 sudo apt-get install python3
 sudo apt-get install python3-pip
 sudo pip3 install -r requirements.txt
+```
+
+or
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Running the programms:
