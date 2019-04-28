@@ -1,12 +1,13 @@
 # MQTT2PostgresBridge
 
-MQTT2PostgresBridge is a project to connect a locally running broker to a Postgres database and store the messages in a database table. The project was written and tested in Python 3.7.1.
+MQTT2PostgresBridge is a project to connect a locally running broker to a Postgres database and store the messages in a database table. The project was written and tested in Python 3.7.3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/bhqkj3oacr7jix8x?svg=true)](https://ci.appveyor.com/project/SeppPenner/mqtt2postgresbridge)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/MQTT2PostgresBridge.svg)](https://github.com/SeppPenner/MQTT2PostgresBridge/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/MQTT2PostgresBridge.svg)](https://github.com/SeppPenner/MQTT2PostgresBridge/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/MQTT2PostgresBridge.svg)](https://github.com/SeppPenner/MQTT2PostgresBridge/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/MQTT2PostgresBridge/master/License.txt)
+[![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/MQTT2PostgresBridge/badge.svg)](https://snyk.io/test/github/SeppPenner/MQTT2PostgresBridge) 
 
 ## Adjust your settings:
 
@@ -71,7 +72,7 @@ python3 bridge.py
 python3 bridgeFiltering.py
 ```
 
-## Installing the latest version of Python (Currently 3.7.0) on the Raspberry Pi:
+## Installing the latest version of Python (Currently 3.7.3) on the Raspberry Pi:
 
 https://gist.github.com/SeppPenner/6a5a30ebc8f79936fa136c524417761d
 
