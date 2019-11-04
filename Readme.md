@@ -6,7 +6,7 @@ MQTT2PostgresBridge is a project to connect a locally running broker to a Postgr
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/MQTT2PostgresBridge.svg)](https://github.com/SeppPenner/MQTT2PostgresBridge/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/MQTT2PostgresBridge.svg)](https://github.com/SeppPenner/MQTT2PostgresBridge/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/MQTT2PostgresBridge.svg)](https://github.com/SeppPenner/MQTT2PostgresBridge/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/MQTT2PostgresBridge/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/MQTT2PostgresBridge/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/MQTT2PostgresBridge/badge.svg)](https://snyk.io/test/github/SeppPenner/MQTT2PostgresBridge) 
 
 ## Adjust your settings:
