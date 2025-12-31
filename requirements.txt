@@ -1,2 +1,2 @@
-paho-mqtt==1.6.1
-psycopg2==2.9.6
+paho-mqtt==2.1.0
+psycopg2==2.9.11
