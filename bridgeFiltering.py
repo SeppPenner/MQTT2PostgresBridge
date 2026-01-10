@@ -5,7 +5,7 @@ import psycopg2
 broker_source = "127.0.0.1"
 broker_source_port = 1883
 
-client_source = mqtt.Client("YourClientId")
+client_source = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2, "YourClientId")
 client_source.username_pw_set("YourUsername", "YourPassword")
 
 DatabaseHostName = 'YourHost'
